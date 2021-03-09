@@ -1,0 +1,96 @@
+.sectiontop {
+  background-color: #c40000;
+  width: 85%;
+  margin-left: 7%;
+}
+
+.sectionbody {
+  background-color: #f1ebeb;
+}
+
+.sectiontopp {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.1em;
+  padding-top: 4%;
+  padding-bottom: 0.1%;
+  padding-left: 3%;
+}
+
+.sectionbodyp {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  padding-left: 3%;
+  padding-right: 7%;
+}
+
+.sectionbodyh2 {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  padding-top: 6%;
+  padding-left: 3%;
+}
+
+.sectionbodybutton {
+  color: white;
+  font-size: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #c40000;
+  padding: 1%;
+  padding-left: 2%;
+  padding-right: 2%;
+  position: absolute;
+  left: 80%;
+  bottom: 28%;
+  border-radius: 2em;
+}
+
+@media (min-width: 320px) and (max-width: 320px) {
+  .sectionbodybutton {
+    color: white;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #c40000;
+    padding: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    position: absolute;
+    left: 53%;
+    bottom: -91%;
+    border-radius: 2em;
+  }
+}
+
+@media (min-width: 375px) and (max-width: 812px) {
+  .sectionbodybutton {
+    color: white;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #c40000;
+    padding: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    position: absolute;
+    left: 53%;
+    bottom: 36%;
+    border-radius: 2em;
+  }
+}
+
+@media (min-width: 414px) and (max-width: 736px) {
+  .sectionbodybutton {
+    color: white;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #c40000;
+    padding: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    position: absolute;
+    left: 53%;
+    bottom: 32%;
+    border-radius: 2em;
+  }
+}

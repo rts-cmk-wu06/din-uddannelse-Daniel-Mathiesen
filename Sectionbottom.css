@@ -1,0 +1,72 @@
+.sectionbodybot {
+  color: white;
+  width: 100%;
+}
+
+.sectionbodybotp {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  padding-left: 3%;
+  padding-right: 7%;
+  margin-left: 7%;
+  margin-right: 7%;
+}
+
+.sectionbodyboth2 {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  padding-top: 0%;
+  padding-left: 3%;
+  margin-left: 7%;
+  margin-right: 7%;
+}
+
+@media (min-width: 320px) and (max-width: 320px) {
+  .sectionbodybuttonbot {
+    color: white;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #c40000;
+    padding: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    position: absolute;
+    left: 53%;
+    bottom: -261%;
+    border-radius: 2em;
+  }
+}
+
+@media (min-width: 375px) and (max-width: 812px) {
+  .sectionbodybuttonbot {
+    color: white;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #c40000;
+    padding: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    position: absolute;
+    left: 53%;
+    bottom: -25%;
+    border-radius: 2em;
+  }
+}
+
+@media (min-width: 414px) and (max-width: 736px) {
+  .sectionbodybuttonbot {
+    color: white;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #c40000;
+    padding: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    position: absolute;
+    left: 53%;
+    bottom: -35%;
+    border-radius: 2em;
+  }
+}
